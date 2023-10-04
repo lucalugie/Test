@@ -10,7 +10,7 @@ if(helloworld() === "hello world")
 }
 
 //test case: one_plus 
-if(one_plus(1) === 2) //oneplus <--- 1 ==> 2
+if(one_plus(1) === 3) //oneplus <--- 1 ==> 2
 {
     
 }else{
@@ -19,7 +19,7 @@ if(one_plus(1) === 2) //oneplus <--- 1 ==> 2
 }
 
 
-if(one_plus(2) === 3) //oneplus <--- 1 ==> 2
+if(one_plus(2) === 4) //oneplus <--- 1 ==> 2
 {
     
 }else{
