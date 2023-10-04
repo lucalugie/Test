@@ -2,6 +2,7 @@ const { helloworld, one_plus } = require("./Utils");
 
 if(helloworld() === "hello world")
 {
+    console.log("hello world");
 
 }else{
     console.log(1);
